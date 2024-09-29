@@ -2,7 +2,7 @@
  CMPE272 - Lab1
 
 ## Short Description
-A simple RESTful web service built using Spring Boot. The service exposes an endpoint that returns a greeting message. The `Greeting` class is a model that stores the ID and content of the greeting, and the `GreetingController` handles HTTP GET requests to the `/greeting` endpoint.
+A simple RESTful web service built using Spring Boot. It returns a greeting message.
 
 ## How to Run the Application
 ### Prerequisites
