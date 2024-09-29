@@ -16,3 +16,6 @@ A simple RESTful web service built using Spring Boot. It returns a greeting mess
    ```bash
    mvn spring-boot:run
 3. The application will start on the default port 8080.
+
+## Test the Application
+![alt text](postman1.png) ![alt text](postman2.png)
