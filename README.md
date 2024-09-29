@@ -7,6 +7,7 @@ A simple RESTful web service built using Spring Boot. It returns a greeting mess
 ## How to Run the Application
 ### Prerequisites
 1. **Java 11 or above**
+   - Check Java installation: `java -version`
    - [Download JDK](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
 2. **Apache Maven**
    - Check Maven installation: `mvn -v`
